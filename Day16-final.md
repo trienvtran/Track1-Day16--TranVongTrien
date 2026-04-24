@@ -31,7 +31,7 @@ One-sentence description:
 ## 3. Need Map 
 
 ### Need #1 (Priority: Hỗ trợ ra quyết định ăn uống tức thời)
-- **Statement (JTBD):** Khi tôi chuẩn bị ăn một món ăn không tự nấu (đi tiệc, đi ăn ngoài), tôi muốn biết ngay lập tức món này có an toàn cho mức đường huyết hiện tại không, để có thể tự tin ăn uống mà không lo sợ bị tăng đường huyết đột ngột gây choáng váng hoặc phải nhập viện.
+- **Statement (JTBD):** Khi tôi chuẩn bị ăn một món ăn, tôi muốn biết ngay lập tức món này có an toàn cho mức đường huyết hiện tại không, để có thể tự tin ăn uống mà không lo sợ bị tăng đường huyết đột ngột gây choáng váng hoặc phải nhập viện.
 - **Current workaround:** Tra cứu Google thủ công (thông tin thường quá chung chung), gọi điện hỏi con cái, hoặc "ăn liều" một ít rồi chờ đo máy sau 2 tiếng.
 - **Pain signal:** **Stress vận hành và rủi ro sức khỏe.** Người già luôn sống trong sự lo âu mỗi bữa ăn, dẫn đến việc ăn uống không ngon miệng hoặc kiêng khem quá mức gây suy nhược.
 - **Evidence / proxy evidence:** Tỉ lệ bệnh nhân tiểu đường nhập viện do biến chứng tăng/hạ đường huyết đột ngột; các câu hỏi lặp đi lặp lại trong các hội nhóm "Tôi bị tiểu đường có ăn được món X không?".
